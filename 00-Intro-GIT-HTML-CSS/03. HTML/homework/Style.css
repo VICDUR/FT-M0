@@ -1,0 +1,25 @@
+* {
+    background-color: black;
+    font-family: Arial;
+}
+h1 {
+ color:rgb(255, 76, 5)    
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+   height: 900px;
+   width: 500px;
+   background-color: yellow;
+   padding: 50px;
+   border: solid red 50px;
+}
+#spanId {
+    font-size:18px;
+    color: rgb(163, 165, 42);
+}
+.divClass {
+    margin-bottom: 50px;
+    margin-left: 10px;
+}
